@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: blueviolet;
+}
+input{
+    margin:10px;
+}
+#sumbit_button{
+    margin-top: 20px ;
+    margin-bottom: 20px;
+}
+sort_button{
+    margin-top: 20px;
+    margin: bottom 20px;;
+}
